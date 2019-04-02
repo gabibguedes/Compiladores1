@@ -1,1 +1,3 @@
-Repo de exercicios de Compiladores 1
+# Compiladores 1
+
+Exercicios feitos para a materia de Compiladores.
